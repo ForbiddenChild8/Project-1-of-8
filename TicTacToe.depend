@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1770831373 source:c:\users\agape\documents\projects\tictactoe\main.cpp
+	<iostream>
+	<cmath>
+	"Move.h"
+	"GenerateBoard.h"
+	"Think.h"
+
+1770327736 c:\users\agape\documents\projects\tictactoe\move.h
+
+1770326903 c:\users\agape\documents\projects\tictactoe\generateboard.h
+
+1770831459 c:\users\agape\documents\projects\tictactoe\think.h
+	"Move.h"
+	"Player.h"
+	"GenerateBoard.h"
+	<cmath>
+	<algorithm>
+
+1770831460 c:\users\agape\documents\projects\tictactoe\player.h
+
