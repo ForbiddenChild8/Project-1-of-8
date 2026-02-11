@@ -4,7 +4,10 @@ This project is a custom-built Tic Tac Toe engine that explores game-tree decisi
 
 Key features:
 
-Recursive move tree exploration with state mutation and undo logic
-Heuristic scoring for threat creation and prevention
-Depth-weighted evaluation to prioritize earlier strategic moves
-Positional heatmap bias for stronger opening play
+1. Recursive move tree exploration with state mutation and undo logic.  
+
+2. Heuristic scoring for threat creation and prevention
+
+3. Depth-weighted evaluation to prioritize earlier strategic moves
+
+4. Positional heatmap bias for stronger opening play
